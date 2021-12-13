@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="homework\00_bubbles.py" />
     <Compile Include="homework\01_days_in_month.py" />
+    <Compile Include="homework\09_resolve_conflicts.py" />
     <Compile Include="snippets\01_execution_flow.py" />
     <Compile Include="homework\02_envelop.py" />
     <Compile Include="snippets\02_if.py" />

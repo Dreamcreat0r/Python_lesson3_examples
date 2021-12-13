@@ -12,3 +12,7 @@
 educational_grant, expenses = 10000, 12000
 
 # TODO здесь ваш код
+
+for mon in range(1,11):
+    print('Student have to ask ', expenses - educational_grant, ' rub. in ', mon, ' month')
+    expenses *=1.03

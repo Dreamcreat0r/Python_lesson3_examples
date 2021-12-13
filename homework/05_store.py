@@ -48,7 +48,16 @@ store = {
 
 # TODO здесь ваш код
 
-
+for name in goods:
+    summ = 0
+    code = goods[name]
+    price_list = store[code]
+    for position in price_list:
+        amount = position['quantity']
+        price = position['price']
+        summ_of_position = amount*price
+        summ += summ_of_position
+    print(name, ' - ', summ)
 
 
 

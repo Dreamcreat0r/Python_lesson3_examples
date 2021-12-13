@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>faf054e2-7dc0-4725-8891-d70321cb2a07</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>lesson3_examples.py</StartupFile>
+    <StartupFile>homework\00_bubbles.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,6 @@
   <ItemGroup>
     <Compile Include="homework\00_bubbles.py" />
     <Compile Include="homework\01_days_in_month.py" />
-    <Compile Include="homework\09_resolve_conflicts.py" />
     <Compile Include="snippets\01_execution_flow.py" />
     <Compile Include="homework\02_envelop.py" />
     <Compile Include="snippets\02_if.py" />
